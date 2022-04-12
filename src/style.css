@@ -13,7 +13,7 @@ h2 {
 }
 
 h3 {
-    font-size:40px; 
+    font-size: 40px;
     line-height: 44px;
 }
 
@@ -28,7 +28,7 @@ h5 {
 }
 
 h6 {
-    font-size:20px; 
+    font-size: 20px;
     line-height: 22px;
 }
 
@@ -54,60 +54,189 @@ h6 {
 
 .text-pc {
     color: #223354;
- }
- 
- .text-sc {
-    color:#1ab4d7
- }
- 
- .c-info {
-     color:#b0a0fd;
- }
- 
- .c-Success {
-     color:#27ae60;
- }
- 
- .c-warning {
-     color: #e2b93b;
- }
- 
- .c-error {
-     color: #eb5757;
- }
+}
 
- .c-b1 {
-     color: #000000;
- }
+.text-sc {
+    color: #1ab4d7
+}
 
- .c-b2 {
-     color: #1d1d1d1d;
- }
+.c-info {
+    color: #b0a0fd;
+}
 
- .c-b3 {
-     color: 282828;
- }
+.c-success {
+    color: #27ae60;
+}
 
- .c-w {
-     color: #ffffff;
- }
+.c-warning {
+    color: #e2b93b;
+}
 
- .c-g1 {
-     color: #333333;
- }
+.c-error {
+    color: #eb5757;
+}
 
- .c-g2 {
-     color: #4f4f4f;
- }
+.c-b1 {
+    color: #000000;
+}
 
- .c-g3 {
-     color: #828282;
- }
+.c-b2 {
+    color: #1d1d1d1d;
+}
 
- .c-g4 {
-     color: #bdbdbd;
- }
+.c-b3 {
+    color: #282828;
 
- .c-g5 {
-     color: #e0e0e0;
- }
+}
+
+.c-w {
+    color: #ffffff;
+}
+
+.c-g1 {
+    color: #333333;
+}
+
+.c-g2 {
+    color: #4f4f4f;
+}
+
+.c-g3 {
+    color: #828282;
+}
+
+.c-g4 {
+    color: #bdbdbd;
+}
+
+.c-g5 {
+    color: #e0e0e0;
+}
+
+.p-l {
+    padding-left: 48px;
+}
+
+.p-t {
+    padding-top: 48px;
+}
+
+.w-52 {
+    width: 300px;
+}
+
+.m-l {
+    margin-left: 48px;
+}
+
+.pl-2 {
+    padding-left: 32px;
+}
+
+.padding-t {
+    padding-top: 19px;
+}
+
+.padding-b {
+    padding-bottom: 19px;
+}
+
+.border {
+    border: 1px solid #bdbdbd;
+}
+
+.m-t {
+    margin-top: 68px;
+}
+
+.margin-t {
+    margin-top: 48px;
+}
+
+.wd-395 {
+    width: 395px;
+}
+
+.h-145 {
+    height: 145px;
+}
+
+.margin {
+    margin-top: 149px;
+}
+
+.margin-l {
+    margin-left: 37px;
+}
+
+.bg-c1 {
+    background-color: #edf0f5;
+}
+
+.input-rules {
+    padding: 1px;
+}
+
+.mb1 {
+    margin-bottom: -27px;
+}
+
+.pleft {
+    padding-left: 37px;
+}
+
+.h-200 {
+    height: 200px;
+}
+
+.ptop {
+    margin-top: 25px;
+}
+
+.header {
+    display: flex;
+}
+
+.main {
+    display: flex;
+}
+
+.main1 {
+    display: flex;
+}
+
+.footer {
+    display: flex;
+}
+
+.p-l3 {
+    padding-left: 3px;
+}
+
+.m-t119 {
+    margin-top: -108px;
+}
+
+.bg-c {
+    border: 1px solid #e2b93b;
+}
+
+.margin-top {
+    margin-top: 20px;
+}
+
+.margin1 {
+    margin: -47px 0 0 12px;
+}
+
+.border-c {
+    border: 1px solid #27ae60;
+}
+
+.border-w {
+    border : 1px solid #e2b93b;
+}
+
+.border-e {
+    border: 1px solid #eb5757;
+}
